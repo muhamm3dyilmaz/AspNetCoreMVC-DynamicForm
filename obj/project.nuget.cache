@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJHcUoW7YXabhTghPbgyjZBcZ9VKDwpiu7P6/BFf73Farxj7fonD7f1ruxF73V7QfDjpwYeZz00PjI4B1CSjxA==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.NET CORE MVC\\CourseRegisterApp\\CourseRegisterApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
